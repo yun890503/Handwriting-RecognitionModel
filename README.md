@@ -1,4 +1,4 @@
-# Handwriting-RecognitionModel
+# Handwriting-RecognitionModel(手寫數字辨識)
 
 載入MNIST數據集：使用PyTorch的torchvision.datasets.MNIST模組，載入MNIST手寫數字數據集，這是一個包含手寫數字圖像和對應標籤（0到9）的數據集。
 
